@@ -1,1 +1,2 @@
 hi
+update the previous commit with ammend
