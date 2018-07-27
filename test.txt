@@ -4,6 +4,7 @@ Squash test 4
 Single new commit
 Squash test 5
 Squash test 6
+Squash test 7
 Amend Test
 test w
 hello
