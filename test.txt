@@ -1,3 +1,4 @@
+Squash test 2
 Amend Test
 test w
 hello
